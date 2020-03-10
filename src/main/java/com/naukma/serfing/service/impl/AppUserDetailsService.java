@@ -1,7 +1,7 @@
-package com.nouhoun.springboot.jwt.integration.service.impl;
+package com.naukma.serfing.service.impl;
 
-import com.nouhoun.springboot.jwt.integration.models.User;
-import com.nouhoun.springboot.jwt.integration.repository.UserRepository;
+import com.naukma.serfing.models.User;
+import com.naukma.serfing.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

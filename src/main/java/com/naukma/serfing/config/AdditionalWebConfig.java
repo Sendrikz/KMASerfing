@@ -1,4 +1,4 @@
-package com.nouhoun.springboot.jwt.integration.config;
+package com.naukma.serfing.config;
 
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
 import org.springframework.context.annotation.Bean;

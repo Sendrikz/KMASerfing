@@ -1,6 +1,4 @@
-package com.nouhoun.springboot.jwt.integration.models;
-
-import com.fasterxml.jackson.annotation.JsonIgnore;
+package com.naukma.serfing.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

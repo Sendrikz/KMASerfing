@@ -1,10 +1,10 @@
-package com.nouhoun.springboot.jwt.integration.service.impl;
+package com.naukma.serfing.service.impl;
 
-import com.nouhoun.springboot.jwt.integration.dto.UserDto;
-import com.nouhoun.springboot.jwt.integration.models.Role;
-import com.nouhoun.springboot.jwt.integration.models.User;
-import com.nouhoun.springboot.jwt.integration.repository.RoleRepository;
-import com.nouhoun.springboot.jwt.integration.repository.UserRepository;
+import com.naukma.serfing.models.Role;
+import com.naukma.serfing.models.User;
+import com.naukma.serfing.dto.UserDto;
+import com.naukma.serfing.repository.RoleRepository;
+import com.naukma.serfing.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

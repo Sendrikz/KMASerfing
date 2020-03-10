@@ -1,4 +1,4 @@
-package com.nouhoun.springboot.jwt.integration.config;
+package com.naukma.serfing.config;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.boot.jdbc.DataSourceBuilder;

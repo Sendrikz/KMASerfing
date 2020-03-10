@@ -1,8 +1,8 @@
-package com.nouhoun.springboot.jwt.integration.controller;
+package com.naukma.serfing.controller;
 
-import com.nouhoun.springboot.jwt.integration.dto.UserDto;
-import com.nouhoun.springboot.jwt.integration.models.User;
-import com.nouhoun.springboot.jwt.integration.service.impl.UserService;
+import com.naukma.serfing.models.User;
+import com.naukma.serfing.service.impl.UserService;
+import com.naukma.serfing.dto.UserDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.Authentication;

@@ -1,6 +1,6 @@
-package com.nouhoun.springboot.jwt.integration.repository;
+package com.naukma.serfing.repository;
 
-import com.nouhoun.springboot.jwt.integration.models.User;
+import com.naukma.serfing.models.User;
 import org.springframework.data.repository.CrudRepository;
 
 

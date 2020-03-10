@@ -1,4 +1,4 @@
-package com.nouhoun.springboot.jwt.integration.models;
+package com.naukma.serfing.models;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

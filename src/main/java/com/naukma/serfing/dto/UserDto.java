@@ -1,4 +1,4 @@
-package com.nouhoun.springboot.jwt.integration.dto;
+package com.naukma.serfing.dto;
 
 public class UserDto {
 

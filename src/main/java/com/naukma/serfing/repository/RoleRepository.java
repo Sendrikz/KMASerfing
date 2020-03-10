@@ -1,6 +1,6 @@
-package com.nouhoun.springboot.jwt.integration.repository;
+package com.naukma.serfing.repository;
 
-import com.nouhoun.springboot.jwt.integration.models.Role;
+import com.naukma.serfing.models.Role;
 import org.springframework.data.repository.CrudRepository;
 
 public interface RoleRepository extends CrudRepository<Role, Long> {
