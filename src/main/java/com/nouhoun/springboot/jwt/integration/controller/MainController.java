@@ -33,4 +33,9 @@ public class MainController {
     public User register(@RequestBody UserDto user) {
         return userService.save(user);
     }
+
+    @RequestMapping(value = "/", method = RequestMethod.GET)
+    public String hello(@RequestBody UserDto user) {
+        return "Hello";
+    }
 }
